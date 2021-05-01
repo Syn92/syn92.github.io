@@ -1,0 +1,1 @@
+{"version":3,"sources":["src/scripts/script.js"],"names":[],"mappings":"AAAA;AACA;AACA,C","file":"scripts.js","sourcesContent":["function myTest() {\r\n    alert('Welcome to custom js');\r\n}"],"sourceRoot":"webpack:///"}
